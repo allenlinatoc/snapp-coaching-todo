@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="display_value" label="Display value" language="en" table="x_727484_coachin_0_todo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>display_value</element>
+            <help/>
+            <hint/>
+            <label>Display value</label>
+            <language>en</language>
+            <name>x_727484_coachin_0_todo</name>
+            <plural>Display values</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>allen.linatoc</sys_created_by>
+            <sys_created_on>2021-11-22 11:05:38</sys_created_on>
+            <sys_id>7bbcd4ac2f440110827254492799b6e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Display value</sys_name>
+            <sys_package display_value="Coaching App: Todo" source="x_727484_coachin_0">6bbe2e1c2f000110827254492799b629</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Coaching App: Todo">6bbe2e1c2f000110827254492799b629</sys_scope>
+            <sys_update_name>sys_documentation_x_727484_coachin_0_todo_display_value_en</sys_update_name>
+            <sys_updated_by>allen.linatoc</sys_updated_by>
+            <sys_updated_on>2021-11-22 11:05:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

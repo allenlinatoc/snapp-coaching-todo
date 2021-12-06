@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Todo" max_length="40" name="x_727484_coachin_0_todo" type="collection"/>
+    <element attributes="hasLabels=true" extends="task" label="Todo" max_length="40" name="x_727484_coachin_0_todo" sizeclass="2" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return current.number + (current.short_description.nil() ? &quot;&quot; : &quot;: &quot; + current.short_description);  // return the calculated value&#13;&#10;&#13;&#10;})(current);" display="true" label="Display value" max_length="250" name="display_value" read_only="true" type="string" virtual="true"/>
+    </element>
 </database>
